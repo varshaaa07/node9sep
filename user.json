@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Merrill",
+    "last_name": "Lies",
+    "email": "mlies0@cnet.com",
+    "gender": "Male",
+    "salary":100000
+  },
+  {
+    "id": 2,
+    "first_name": "Jacintha",
+    "last_name": "Sighart",
+    "email": "jsighart1@msn.com",
+    "gender": "Female",
+    "salary":6000000
+  },
+  {
+    "id": 3,
+    "first_name": "Clary",
+    "last_name": "Glazer",
+    "email": "cglazer2@networkadvertising.org",
+    "gender": "Female",
+    "salary":200000
+  },
+  {
+    "id": 4,
+    "first_name": "Berny",
+    "last_name": "Stebles",
+    "email": "bstebles3@soup.io",
+    "gender": "Male",
+    "salary":980000
+  },
+  {
+    "id": 5,
+    "first_name": "Hamish",
+    "last_name": "Boays",
+    "email": "hboays4@booking.com",
+    "gender": "Male",
+    "salary":2000000
+  },
+  {
+    "id": 6,
+    "first_name": "Sallyann",
+    "last_name": "Tricker",
+    "email": "stricker5@homestead.com",
+    "gender": "Female",
+    "salary":300000
+  },
+  {
+    "id": 7,
+    "first_name": "Philomena",
+    "last_name": "Wellman",
+    "email": "pwellman6@go.com",
+    "gender": "Female",
+    "salary":7800000
+  },
+  {
+    "id": 8,
+    "first_name": "Jodie",
+    "last_name": "Nitto",
+    "email": "jnitto7@google.cn",
+    "gender": "Male",
+    "salary":500000
+  },
+  {
+    "id": 9,
+    "first_name": "Donn",
+    "last_name": "Britner",
+    "email": "dbritner8@tamu.edu",
+    "gender": "Male",
+    "salary":4900000
+  },
+  {
+    "id": 10,
+    "first_name": "Diannne",
+    "last_name": "Berntsson",
+    "email": "dberntsson9@comsenz.com",
+    "gender": "Female",
+    "salary":300000
+  }
+]
